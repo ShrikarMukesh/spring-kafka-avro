@@ -1,0 +1,13 @@
+http://localhost:8181/events
+
+{
+    "id": "fff",
+    "firstName": "Dinesh",
+    "middleName": "Chopra",
+    "lastName": "G",
+    "emailId": "din@gmail.com"
+
+}
+
+schema : http://127.0.0.1:8081/subjects
+UI Confluent : http://localhost:9021/clusters
